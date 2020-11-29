@@ -17,10 +17,10 @@ The page is run and tested on [Intellij Community Edition](https://www.jetbrains
 
 <img src="https://github.com/rsrkpatwari1234/Doit_app/blob/main/images/emulation_default.png" width="700" height="400">
 <p float="left">
-<img src="https://github.com/rsrkpatwari1234/Doit_app/blob/main/images/emulation_company.png" width="600" height="400">
-<img src="https://github.com/rsrkpatwari1234/Doit_app/blob/main/images/emulation_topic.png" width="600" height="400">
+<img src="https://github.com/rsrkpatwari1234/Doit_app/blob/main/images/emulation_company.png" width="525" height="400">
+<img src="https://github.com/rsrkpatwari1234/Doit_app/blob/main/images/emulation_topic.png" width="525" height="400">
 </p>
 <p float="left">
-<img src="https://github.com/rsrkpatwari1234/Doit_app/blob/main/images/emulation_company.png" width="600" height="400">
-<img src="https://github.com/rsrkpatwari1234/Doit_app/blob/main/images/emulation_job.png" width="600" height="400">
+<img src="https://github.com/rsrkpatwari1234/Doit_app/blob/main/images/emulation_company.png" width="525" height="400">
+<img src="https://github.com/rsrkpatwari1234/Doit_app/blob/main/images/emulation_job.png" width="525" height="400">
 </p>
