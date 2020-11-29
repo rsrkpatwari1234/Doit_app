@@ -6,5 +6,7 @@ The page is run and tested on [Intellij Community Edition](https://www.jetbrains
 
 # Adding Filter Tags and general Layout to the page
 1.Linearlayout is used to give the page a normal look.The demo of the page with the layout and textviews can be seen as below:
+![general layout](https://github.com/rsrkpatwari1234/Doit_app/blob/main/images/layout.png)
 2.Drop-down list feature is added to various tags to allow the user filter the questions.
+
 3.The dynamic feature of the page is tested on the platform emulator 'Pixel 2 API 30'.
